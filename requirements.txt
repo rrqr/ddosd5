@@ -1,2 +1,2 @@
-pip install python-telegram-bot
-pip install telebot
+install python-telegram-bot
+install telebot
